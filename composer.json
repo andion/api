@@ -1,5 +1,5 @@
 {
-    "name": "dingo/api",
+    "name": "andion/dingo-api",
     "description": "A RESTful API package for the Laravel framework.",
     "keywords": ["restful", "api", "laravel", "dingo"],
     "license": "BSD-3-Clause",
